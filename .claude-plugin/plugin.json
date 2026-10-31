@@ -1,6 +1,6 @@
 {
   "name": "cat-progression",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cat Mascot Progression: a pixel-art cat mascot lives in the prompt footer, earns EXP as you use Claude, and becomes a God Cat at level 100.",
   "types": "./types/index.d.ts",
   "author": {
