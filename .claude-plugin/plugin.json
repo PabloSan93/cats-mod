@@ -1,0 +1,10 @@
+{
+  "name": "cat-progression",
+  "version": "0.1.0",
+  "description": "A mini cat roams above the prompt, earns EXP as you use Claude, and becomes a God Cat at level 100.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pablo S. Devs"
+  },
+  "license": "MIT"
+}
