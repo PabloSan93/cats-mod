@@ -1,5 +1,13 @@
 {
   "name": "cat-progression",
-  "owner": { "name": "Pablo S. Devs" },
-  "plugins": [{ "name": "cat-progression", "source": "./" }]
+  "owner": {
+    "name": "Pablo S. Devs"
+  },
+  "plugins": [
+    {
+      "name": "cat-progression",
+      "source": "./"
+    }
+  ],
+  "description": "Cat Mascot Progression: a pixel-art cat mascot that levels up as you use Claude."
 }

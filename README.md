@@ -1,4 +1,4 @@
-# cat-progression
+# Cat Mascot Progression
 
 A Claude Code mod: a tiny pixel-art cat lives in the prompt footer, earns EXP every time you use Claude, and ascends to a God Cat at level 100.
 
